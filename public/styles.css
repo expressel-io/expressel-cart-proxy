@@ -1,0 +1,9 @@
+img {
+  width: 1000px;
+  height: auto;
+}
+
+.first-row {
+  display: grid;
+  grid-template-columns: 1100px 400px;
+}
